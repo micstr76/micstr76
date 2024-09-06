@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on advanced PowerShell scripting and SCCM automation projects.
 - 🌱 Learning more about containerization and cloud automation.
 - 💬 Ask me about C#, JavaScript, HTML5, or anything related to IT infrastructure.
-- 📫 How to reach me: michael@m-strasser.at
 - ⚡ Fun fact: I love to create elegant automation solutions that make life easier!
 
 ### 🛠️ Skills:
