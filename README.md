@@ -3,7 +3,7 @@
 # Moin, ich bin Michael Strasser 👋
 ### 🖥️ Windows-Systemingenieur | 🛠️ Software-Entwickler | 🚀 Schöpfer von Msistudio
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-strasser-it/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-strasser-9a9661152/)
 [![Website Badge](https://img.shields.io/badge/Website-m--strasser.at-darkgreen?style=for-the-badge&logo=googlechrome)](https://m-strasser.at)
 
 ---
@@ -13,7 +13,7 @@
 
 *Schluss mit XML-Gefummel! Msistudio bringt eine moderne GUI für professionelles MSI-Packaging.*
 
-[**Zum Repository →**](https://github.com/DEIN_USERNAME/Msistudio)
+[**Zum Repository →**](https://github.com/micstr76/Msistudio)
 
 ---
 
@@ -36,7 +36,7 @@ Mit über **12 Jahren Erfahrung** in der Enterprise-IT (aktuell Universität Inn
 * **Dev:** WPF/XAML Desktop Apps & C# Backend-Logik.
 
 ### 📊 GitHub Stats
-![Michaels GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Michaels GitHub Stats](https://github-readme-stats.vercel.app/api?username=micstr76&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
