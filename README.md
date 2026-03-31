@@ -35,8 +35,6 @@ Mit über **12 Jahren Erfahrung** in der Enterprise-IT (aktuell Universität Inn
 * **Infrastructure:** Windows Server Management & AD-Automatisierung.
 * **Dev:** WPF/XAML Desktop Apps & C# Backend-Logik.
 
-### 📊 GitHub Stats
-![Michaels GitHub Stats](https://github-readme-stats.vercel.app/api?username=micstr76&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
